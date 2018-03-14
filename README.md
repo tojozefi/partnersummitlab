@@ -11,6 +11,8 @@
 
 [Exercise3_Image_processing_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise3_Image_processing_with_Azure_Batch.pdf)
 
+[Exercise4_CycleCloud_NAMD_SGE_Cluster.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise4_CycleCloud_NAMD_SGE_Cluster.pdf)
+
 [Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf)
 
 
