@@ -1,5 +1,4 @@
 
-(
 # SCFE tutorial workshop #7
 
 ## Microsoft Azure - the best public cloud for HPC
