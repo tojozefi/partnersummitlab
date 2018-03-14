@@ -1,20 +1,22 @@
 # SCFE tutorial workshop #7
+
 ## Microsoft Azure - the best public cloud for HPC
 
 ### Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/scfelab/blob/master/Activate_Azure_trial_subscription.pdf)
+[Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
+[Exercise3_Image_processing_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise3_Image_processing_with_Azure_Batch.pdf)
+[Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf)
+
 
 
 ### Azure Promo codes
 1) WR9ITS6Q2ITHWC291G
 2)
 
-### 1. Add application if not already there
+### Exercise 3
+[pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
 
-If the application that need to be run is not already there do the following:
-- Add it to the index.json with id, name, description
-- Create a folder with the id of the application
-- Add an icon in the root of the newly created folder(svg). Check for the license.
-- Create a index.json inside the folder too
-
-### 2. Add the action and templates
+### Exercise 5 scripts
+[pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
+[sshkey_copy.sh](https://github.com/tojozefi/scfelab/blob/master/sshkey_copy.sh)
