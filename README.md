@@ -1,4 +1,3 @@
-
 # SCFE tutorial workshop #7
 
 ## Microsoft Azure - the best public cloud for HPC
@@ -8,7 +7,7 @@
 
 [Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
 
-[Exercise2_Running_OpenFOAM_in_UberCloud_Container](https://github.com/tojozefi/scfelab/blob/master/Exercise2_Running_OpenFOAM_in_UberCloud_Container)
+[Exercise2_Running_OpenFOAM_in_UberCloud_Container.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise2_Running_OpenFOAM_in_UberCloud_Container.pdf)
 
 [Exercise3_Image_processing_with_Azure_Batch.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise3_Image_processing_with_Azure_Batch.pdf)
 
