@@ -2,7 +2,7 @@
 ## Microsoft Azure - the best public cloud for HPC
 
 ### Workshop tutorial guides
-[Activate_Azure_trial_subscription](https://github.com/tojozefi/scfelab/blob/master/Activate_Azure_trial_subscription.docx)
+[Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/scfelab/blob/master/Activate_Azure_trial_subscription.pdf)
 
 
 ### Azure Promo codes
