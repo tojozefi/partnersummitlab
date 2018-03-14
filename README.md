@@ -15,8 +15,8 @@
 
 
 ### Azure promo codes
-(1) WR9ITS6Q2ITHWC291G
-(2)
+1) WR9ITS6Q2ITHWC291G
+2)
 
 ### Exercise 3
 [pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
