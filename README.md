@@ -1,4 +1,4 @@
-
+(
 # SCFE tutorial workshop #7
 
 ## Microsoft Azure - the best public cloud for HPC
@@ -14,14 +14,13 @@
 
 
 
-### Azure Promo codes
-1) WR9ITS6Q2ITHWC291G
-2)
+### Azure promo codes
+(1) WR9ITS6Q2ITHWC291G
+(2)
 
 ### Exercise 3
 [pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
 
-### Exercise 5 scripts
+### Exercise 5
 [pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
-
 [sshkey_copy.sh](https://github.com/tojozefi/scfelab/blob/master/sshkey_copy.sh)
