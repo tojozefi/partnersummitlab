@@ -15,14 +15,40 @@
 
 [Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf)
 
+### Azure trial subscription activation
+[Create Microsoft account](http://account.microsoft.com)
 
+[Redeem Azure Pass Promo Code](www.microsoftazurepass.com)
 
-### Azure promo codes
+[Azure portal](portal.azure.com)
+
+### Azure Pass Promo Codes
 1) WR9ITS6Q2ITHWC291G
-2)
+2) WV7LMB3595JOVTRHGK
+3) WNYZPHZ2QK4T67AOWG
+4) WU472ZYONA3GAHEXPC
+5) W7UEX96UAGWT6D5BDE
+6) WVJXVVY7RBU5J4QN61
+7) WRVI4LL4DT5G61BH1M
+8) W7IVJ8S1L56DX3KFJY
+9) WI5BHZD86HQ9P1S3QS
+10) WZ07RA87OKKDZI1IYS
+
+### Exercise 1
+[Azure quickstart template for SLURM cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/slurm)
+
+### Exercise 2
+[Azure Marketplace](https://azure.microsoft.com/enus/marketplace/)
+
+[UberCloud help](www.TheUberCloud.com/Help/)
 
 ### Exercise 3
+[Batch Labs](https://azure.github.io/BatchLabs/)
+
 [pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
+
+### Exercise 4
+[CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com/)
 
 ### Exercise 5
 [pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
