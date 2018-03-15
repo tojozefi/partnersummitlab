@@ -18,9 +18,9 @@
 ### Azure trial subscription activation
 [Create Microsoft account](http://account.microsoft.com)
 
-[Redeem Azure Pass Promo Code](www.microsoftazurepass.com)
+[Redeem Azure Pass Promo Code](http://www.microsoftazurepass.com)
 
-[Azure portal](portal.azure.com)
+[Azure portal](https://portal.azure.com)
 
 ### Azure Pass Promo Codes
 1) WR9ITS6Q2ITHWC291G
@@ -40,7 +40,7 @@
 ### Exercise 2
 [Azure Marketplace](https://azure.microsoft.com/enus/marketplace/)
 
-[UberCloud help](www.TheUberCloud.com/Help/)
+[UberCloud help](http://www.TheUberCloud.com/Help/)
 
 ### Exercise 3
 [Batch Labs](https://azure.github.io/BatchLabs/)
