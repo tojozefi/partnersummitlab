@@ -22,18 +22,6 @@
 
 [Azure portal](https://portal.azure.com)
 
-### Azure Pass Promo Codes
-1) WR9ITS6Q2ITHWC291G
-2) WV7LMB3595JOVTRHGK
-3) WNYZPHZ2QK4T67AOWG
-4) WU472ZYONA3GAHEXPC
-5) W7UEX96UAGWT6D5BDE
-6) WVJXVVY7RBU5J4QN61
-7) WRVI4LL4DT5G61BH1M
-8) W7IVJ8S1L56DX3KFJY
-9) WI5BHZD86HQ9P1S3QS
-10) WZ07RA87OKKDZI1IYS
-
 ### Exercise 1
 [Azure quickstart template for SLURM cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/slurm)
 
