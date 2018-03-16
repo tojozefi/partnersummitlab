@@ -1,4 +1,4 @@
-# SCFE tutorial workshop #7
+# SCFE Azure Big Compute workshop
 
 ## Microsoft Azure - the best public cloud for HPC
 
@@ -26,7 +26,7 @@
 [Azure quickstart template for SLURM cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/slurm)
 
 ### Exercise 2
-[Azure Marketplace](https://azure.microsoft.com/enus/marketplace/)
+[Azure Marketplace](https://azure.microsoft.com/en-us/marketplace/)
 
 [UberCloud help](http://www.TheUberCloud.com/Help/)
 
