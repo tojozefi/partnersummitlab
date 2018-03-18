@@ -13,6 +13,7 @@
 
 [Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise5_RDMA_Linux_cluster_with_Azure_CLI.pdf)
 
+## Useful links
 ### Azure trial subscription activation
 [Create Microsoft account](http://account.microsoft.com)
 
@@ -35,6 +36,8 @@
 
 ### Exercise 4
 [CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com/)
+
+[cyclecloud SSH key](https://cyclelabstore.blob.core.windows.net/cyclecloud/cyclecloud.sc_frontiers.pem)
 
 ### Exercise 5
 [pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
