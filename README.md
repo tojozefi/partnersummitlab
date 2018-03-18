@@ -1,8 +1,6 @@
-# SCFE Azure Big Compute workshop
+# Azure Big Compute workshop
 
-## Microsoft Azure - the best public cloud for HPC
-
-### Workshop tutorial guides
+## Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/scfelab/blob/master/Activate_Azure_trial_subscription.pdf)
 
 [Exercise1_SLURM_cluster_from_ARM_template.pdf](https://github.com/tojozefi/scfelab/blob/master/Exercise1_SLURM_cluster_from_ARM_template.pdf)
