@@ -1,3 +1,4 @@
+
 # Azure Big Compute workshop
 
 ## Promo codes
@@ -11,6 +12,7 @@
 8. W6AO8STWD97MIPDIX1
 9. W30R4GPFHU367QG01Q
 10. W6X1FUUBMFD8O5CN2R
+11. WTD9LSL5I8MZBFJ8C1
 
 ## Workshop tutorial guides
 [Activate_Azure_trial_subscription.pdf](https://github.com/tojozefi/scfelab/blob/master/Activate_Azure_trial_subscription.pdf)
