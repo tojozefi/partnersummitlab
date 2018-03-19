@@ -48,10 +48,13 @@
 
 [pictures.zip](https://github.com/tojozefi/scfelab/blob/master/pictures.zip)
 
+
 ### Exercise 4
 [CycleCloud GUI](https://cycleserverzlyprb.westeurope.cloudapp.azure.com/)
 
 [cyclecloud SSH key](https://cyclelabstore.blob.core.windows.net/cyclecloud/cyclecloud.sc_frontiers.pem)
+
+[condorjob.txt](https://github.com/tojozefi/scfelab/blob/master/condorjob.txt)
 
 ### Exercise 5
 [Azure CLI installation guide](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
