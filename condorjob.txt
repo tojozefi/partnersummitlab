@@ -1,0 +1,15 @@
+Universe = vanilla
+Requirements = ((Arch =?= "INTEL") || (Arch =?= "X86_64")) && (OpSys =?= "LINUX")
+Executable = /bin/sleep
+Log = sleep.log
+output = sleep-$(Cluster).$(Process).out
+error = sleep-$(Cluster).$(Process).err
+arguments = 60
+
+notification = Never
+should_transfer_files = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+transfer_executable = false
+leave_in_queue = false
+
+Queue 100
