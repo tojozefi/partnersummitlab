@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
   if (argc<3)
   {
-    fprintf(stderr,"Missing command-line argument, syntax: thyssen <input> <output>\n");
+    fprintf(stderr,"Missing command-line argument, syntax: customcode <input> <output>\n");
     return 1;
   }
 
