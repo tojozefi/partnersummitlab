@@ -54,6 +54,8 @@
 [cyclecloud SSH key](https://cyclelabstore.blob.core.windows.net/cyclecloud/cyclecloud.sc_frontiers.pem)
 
 ### Exercise 5
+[Azure CLI installation guide](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
+
 [pingpong.sh](https://github.com/tojozefi/scfelab/blob/master/pingpong.sh)
 
 [sshkey_copy.sh](https://github.com/tojozefi/scfelab/blob/master/sshkey_copy.sh)
