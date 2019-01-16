@@ -4,7 +4,7 @@
 ## Workshop tutorial guides
 [Azure Batch lab](https://github.com/tojozefi/partnersummitlab/blob/master/Azure_Batch.pdf)
 
-[Azure CycleCloud lab](https://github.com/tojozefi/partnersummitlab/blob/master/CycleCloud.md)
+[Azure CycleCloud lab](https://raw.githubusercontent.com/azurebigcompute/cyclecloud_tutorials/master/Lab1/Tutorial.md)
 
 
 
@@ -21,3 +21,4 @@
 
 ### CycleCloud
 
+[pingpong.sh](https://github.com/tojozefi/partnersummitlab/blob/master/pingpong.sh)
